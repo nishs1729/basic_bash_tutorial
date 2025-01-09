@@ -41,3 +41,6 @@
 
 14. **[Control Statements](tutorials/control.md)**  
     Control statements in bash are powerful tools that allow you to make decisions, iterate through data, and control the flow of your script. With constructs like `if`, `else`, `elif`, `for`, `while`, `until`, `break`, and `continue`, you can create flexible and dynamic bash scripts.
+
+15. **[Introduction to Vim](tutorials/vim.md)**  
+    A short introduction of `Vim`. 
