@@ -229,8 +229,3 @@ Alice 30 Designer
 3. Calculate the average of numbers in the second column of `scores.txt`.
 4. Print all lines in `employees.txt` where the role is "Engineer".
 5. Replace the first column in `file.txt` with "Anonymous" and print the result.
-
----
-
-By mastering the `awk` command, you can handle complex text processing tasks efficiently. Practice with the examples and exercises to enhance your skills!
-
