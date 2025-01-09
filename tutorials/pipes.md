@@ -149,7 +149,3 @@ This lists files, sorts them by size, and then shows the last (largest) 5 files.
 4. **Process Multiple Files**: Use `cat`, `grep`, and `sort` to search for a term across multiple files and display the sorted results.
 
 5. **Process Log Files**: Use `tail` and `grep` to monitor a log file and show only the lines containing certain keywords.
-
-## Conclusion
-Pipes are a fundamental concept in bash, allowing you to chain commands and process data in a flexible and efficient manner. By combining commands like `grep`, `sort`, `head`, and others, you can easily manipulate and filter data directly from the command line. With practice, you'll find pipes to be an invaluable tool for streamlining your workflow in bash.
-

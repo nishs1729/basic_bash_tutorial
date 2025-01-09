@@ -40,4 +40,4 @@
     These operators help make your bash scripts more efficient and allow for conditional execution of commands based on the success or failure of previous commands.
 
 14. **[Control Statements](tutorials/control.md)**  
-    `if`, `else`, `elif`, `for`, `while`, `until`, `break`, and `continue`.
+    Control statements in bash are powerful tools that allow you to make decisions, iterate through data, and control the flow of your script. With constructs like `if`, `else`, `elif`, `for`, `while`, `until`, `break`, and `continue`, you can create flexible and dynamic bash scripts.

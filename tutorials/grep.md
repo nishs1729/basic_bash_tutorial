@@ -1,6 +1,3 @@
-Here’s a detailed tutorial on using the `grep` command in bash, formatted in markdown:
-
-
 # Bash Command Tutorial: Using `grep`
 
 ## Introduction

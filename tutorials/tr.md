@@ -95,8 +95,3 @@ echo "hello world" | tr -c 'aeiou' '-'
    - Read the content of a file named `data.txt`.
    - Replace spaces with underscores.
    - Save the output to a new file named `processed_data.txt`.
-
----
-
-By practicing these exercises, you'll gain confidence in using the `tr` command effectively. Mastering this command is a key step in becoming proficient in text processing on Linux systems.
-

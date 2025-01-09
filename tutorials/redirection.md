@@ -163,6 +163,3 @@ This will capture both the output and error messages of the `ls` command in `out
 5. **Redirect Both Output and Errors**: Use a command that will produce both output and errors (e.g., `ls` with a non-existent directory) and redirect both to a file.
 
 6. **Using `tee` Command**: Redirect output to a file and display it on the screen at the same time using the `tee` command.
-
-## Conclusion
-Input and output redirection in bash provides a powerful way to manage data flow between commands and files. By mastering these redirection techniques, you can automate tasks, create logs, and process data efficiently. Whether you're redirecting output to a file, reading from a file, or using more advanced techniques like here documents, redirection is an essential skill for any bash user.

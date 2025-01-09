@@ -1,9 +1,7 @@
-Sure! Below is the tutorial for the `column` command in bash, formatted in markdown.
-
 # Bash Command Tutorial: `column` Command
 
 ## Introduction
-The `column` command in bash is used to format the output of data into a more readable, columnar format. It organizes the data in neat columns, making it easier to read and understand, especially when dealing with large amounts of text or output from other commands.
+The `column` command in bash is used to format the output of data into a more readable, columnar format. It organizes the data in neat columns, making it easier to read and understand, especially when dealing with large amounts of text or output from other commands. [Short video on `column`.](https://www.youtube.com/watch?v=uL7KvRskeog)
 
 ## What is `column` used for?
 The `column` command is typically used to display text in a tabular format with columns. This is particularly useful when dealing with output from commands like `ls`, `cat`, or when processing data in text files that need to be arranged neatly for easier reading or further processing.
@@ -137,7 +135,3 @@ Charlie 35
    Use `sort` with `column` to display the data in a sorted, formatted table.
 
 5. **Custom Delimiters**: Write a script that formats space-separated or tab-separated data from a text file and outputs it with a custom delimiter, such as `|` or `:`.
-
-## Conclusion
-The `column` command is a simple yet powerful tool for formatting text data into a readable columnar format. It’s especially useful for improving the clarity of command outputs and handling data in tabular form. With these examples and exercises, you should be able to use `column` effectively for your everyday tasks in bash scripting and command-line work.
-```

@@ -283,10 +283,6 @@ Number: 4
 
 ---
 
-## Conclusion
-
-Control statements in bash are powerful tools that allow you to make decisions, iterate through data, and control the flow of your script. With constructs like `if`, `else`, `elif`, `for`, `while`, `until`, `break`, and `continue`, you can create flexible and dynamic bash scripts.
-
 ## Practice Exercises
 
 1. Write a script that checks if a given number is even or odd.

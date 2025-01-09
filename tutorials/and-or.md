@@ -133,14 +133,3 @@ echo "Exit status of mkdir: $?"
 2. **Exercise 2**: Create a script that attempts to create a file, and if it fails, prints an error message and exits the script.
 3. **Exercise 3**: Write a script that tries to change to a non-existent directory, prints an error message if it fails, and creates the directory if successful.
 4. **Exercise 4**: Create a script that runs multiple commands with both `&&` and `||` to perform a sequence of tasks and handle errors accordingly.
-
----
-
-Feel free to modify and experiment with these examples to better understand how `&&` and `||` control the flow of your bash scripts.
-
-```
-
-### Key Points:
-- `&&` ensures the second command runs only if the first one is successful.
-- `||` ensures the second command runs only if the first one fails.
-- Combining both operators helps create complex conditional logic for bash scripts.

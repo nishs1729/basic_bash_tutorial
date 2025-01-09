@@ -140,8 +140,3 @@ done
 3. Create a file named `My Special File.txt` using the `touch` command with proper quoting.
 4. Use a backslash to escape a special character and print `*Hello?` literally.
 5. Write a script to iterate over a list of filenames containing spaces (e.g., "file 1", "file 2") and print each filename on a new line.
-
----
-
-Mastering quoting is a vital skill in Bash scripting, as it ensures your commands and scripts handle input correctly. Practice these examples to become proficient in using quotes effectively!
-

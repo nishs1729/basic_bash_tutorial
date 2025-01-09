@@ -338,8 +338,3 @@ no no no
 3. Append "End of line" to every line in `logfile.txt`.
 4. Extract lines 10 to 20 from a file named `data.csv`.
 5. Replace multiple spaces with a single space in `textfile.txt`.
-
----
-
-By practicing these examples and exercises, you'll quickly become proficient in using the `sed` command. It is a vital tool for text processing in Linux systems!
-

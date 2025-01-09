@@ -12,7 +12,7 @@ Globbing in Bash refers to the use of wildcard patterns to match file and direct
 
 ---
 
-## Examples with Outputs
+## Examples
 
 ### Match All Files
 ```bash
@@ -49,27 +49,9 @@ ls *.{jpg,png}
 # image1.jpg  image2.png
 ```
 
-### Exclude Certain Patterns (Using `!` with `shopt -s extglob`)
-Enable extended globbing:
-```bash
-shopt -s extglob
-ls !(*.txt)
-# Output:
-# file1.log  image.jpg  script.sh
-```
-
 ---
 
 ## Advanced Examples
-
-### Recursively Match Files
-Use the `**` pattern to match files in all subdirectories (requires `shopt -s globstar`):
-```bash
-shopt -s globstar
-ls **/*.txt
-# Output:
-# subdir1/file1.txt  subdir2/file2.txt
-```
 
 ### Combine Wildcards
 Match all `.log` files starting with "error":
@@ -95,8 +77,3 @@ echo \*
 3. Match files with names starting with "data" and having numeric suffixes (e.g., `data1`, `data2`).
 4. Use globbing to find files in subdirectories with the extension `.conf`.
 5. Exclude `.tmp` files while listing all other files.
-
----
-
-By mastering globbing patterns, you can efficiently handle complex file operations in Bash. Practice these examples to deepen your understanding!
-

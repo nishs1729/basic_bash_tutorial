@@ -1,6 +1,6 @@
 # Beginner's Guide to the `find` Command in Bash
 
-The `find` command in Bash is a powerful utility used to search for files and directories in a directory hierarchy. It allows you to locate items based on various criteria like name, size, type, and more.
+The `find` command in Bash is a powerful utility used to search for files and directories in a directory hierarchy. It allows you to locate items based on various criteria like name, size, type, and more. [Short video on `column`.](https://www.youtube.com/watch?v=FvEoGHFKsKA)
 
 ---
 
@@ -119,8 +119,3 @@ find /path/to/logs -name "*.log" -exec gzip {} \;
 3. Search for files larger than 500MB in `/data` and compress them using `gzip`.
 4. Find all `.conf` files and replace the word "localhost" with "127.0.0.1" using `sed`.
 5. List all `.sh` files in `/scripts` and make them executable.
-
----
-
-By mastering the `find` command, particularly the `-exec` option, you'll unlock a powerful way to manage files and automate tasks efficiently. Happy searching!
-
