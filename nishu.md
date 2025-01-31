@@ -8,10 +8,8 @@
 - **[Coursera] [Algorithms](https://www.coursera.org/specializations/algorithms)**
 - **[w3schools] [Data Structures and Algorithms](https://www.w3schools.com/dsa)**
 - **[book] A first course in probability - Sheldon Ross**
-
-## Dimensionality reduction algos
-
-## Clustering algos
+- **Statistics**
+- **Programming**
 
 ## Writing
 
