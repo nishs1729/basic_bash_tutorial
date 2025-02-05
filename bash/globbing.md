@@ -1,6 +1,6 @@
 # Beginner's Guide to Globbing in Bash
 
-Globbing in Bash refers to the use of wildcard patterns to match file and directory names. It simplifies file manipulation tasks by enabling you to work with multiple files that follow specific patterns.
+Globbing in Bash refers to the use of wildcard patterns to match file and directory names. It simplifies file manipulation tasks by enabling you to work with multiple files that follow specific patterns. See this youtube video for a wonderful understanding of how it all happens: [Bash Shell Expansions](https://www.youtube.com/watch?v=BhOqqsLWVyA).
 
 ---
 
